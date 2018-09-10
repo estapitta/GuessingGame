@@ -1,0 +1,29 @@
+.centered{
+    margin: auto;
+    width: 50%;
+
+}
+
+h1 {
+font-size: 60px;
+}
+
+h2{
+font-size: 40px;
+}
+
+ul{
+    font-size: 30px;
+}
+
+p{
+    font-size: 30px;
+}
+
+input{
+    font-size: 20px;
+}
+
+button{
+    font-size: 20px;
+}
